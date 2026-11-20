@@ -35,6 +35,11 @@ lineas/
 
 | Línea de transformación | Indicador | Motivo del descarte | Fecha |
 |---|---|---|---|
-| | | | |
+| 07. Sustentabilidad energética | Capacidad instalada de generación distribuida en la Ciudad de México. | Sustituido por una versión actualizada del indicador (porcentaje del consumo eléctrico cubierto por generación distribuida). | Noviembre 2026 |
+| 18. Derechos en las trayectorias de vida - infancias, juventudes y adultez mayor | Porcentaje de nacimientos de mujeres de 19 años o menos en la Ciudad de México. | Por definir. | Noviembre 2026 |
+| 20. Habitable con equilibrio ecológico | Días limpios del índice de calidad del aire (SIMAT). | Por definir. | Noviembre 2026 |
+| 20. Habitable con equilibrio ecológico | Días en que se cumple la norma de ozono (O3) en la Ciudad de México. | Por definir. | Noviembre 2026 |
+| 23. Movilidad sustentable, articulada y accesible | Porcentaje de hogares que destinan más del 10% de su gasto a transporte público en la Ciudad de México. | Por definir. | Noviembre 2026 |
+| 23. Movilidad sustentable, articulada y accesible | Porcentaje de personas que tardan más de una hora en llegar a sus centros de estudio o trabajo en la Zona Metropolitana de la Ciudad de México. | Por definir. | Noviembre 2026 |
 
 *El registro se actualizará conforme se incorporen indicadores a este repositorio.*
